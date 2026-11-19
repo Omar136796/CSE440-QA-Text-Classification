@@ -3,6 +3,7 @@
 Multi-class text classification of question-answer posts into **10 topic categories**, comparing a classical ML baseline, a feed-forward DNN, and seven recurrent neural network architectures on **two text representations**: TF-IDF and Skip-gram (Word2Vec) embeddings.
 
 **Course:** CSE440 – Natural Language Processing II, BRAC University (Fall 2025)
+
 **Team:** Omar Faruk, Amiyo Bhowmik
 
 **Best model: Bidirectional GRU with Skip-gram embeddings – 69.27% accuracy, 0.688 macro F1** on a 59,999-sample held-out test set.
