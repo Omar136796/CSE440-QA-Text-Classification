@@ -1,0 +1,17 @@
+# Original notebook (Google Drive paths) - cleaned version is text_classification.ipynb
+5_23101255_23101254.ipynb
+
+# Raw CSVs (stored zipped in data/)
+Train/
+Test/
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
