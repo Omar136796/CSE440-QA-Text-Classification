@@ -1,6 +1,6 @@
 # CSE440 Project – Question-Answer Text Classification (TF-IDF, Word2Vec, RNNs)
 
-Multi-class text classification of question-answer posts into **10 topic categories**, comparing a classical ML baseline, a feed-forward DNN, and seven recurrent neural network architectures on **two text representations**: TF-IDF and Skip-gram (Word2Vec) embeddings.
+Multi-class text classification of question-answer posts into **10 topic categories**, comparing a classical ML baseline, a feed-forward DNN and seven recurrent neural network architectures on **two text representations**: TF-IDF and Skip-gram (Word2Vec) embeddings.
 
 **Course:** CSE440 – Natural Language Processing II, BRAC University (Fall 2025)
 
